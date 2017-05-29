@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 605 (ID=0x1048)
+    Vendor:   NVIDIA
+    VRAM:     1318 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading L:\UnityProject\lcraft\lcraft_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading L:\UnityProject\lcraft\lcraft_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.240 seconds
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: L:\UnityProject\lcraft\lcraft_Data\Managed\System.dll (this message is harmless)
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.172140 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1184 -> priority: 1 
+  Thread -> id: 1a00 -> priority: 1 
